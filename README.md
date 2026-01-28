@@ -2,15 +2,15 @@
 The most fun you'll ever have playing snake. A player-vs-robot snake game implemented in bare-metal C for the DE10-Lite FPGA board, inspired by the classic Tron light cycles. It is controlled by keys on the DE10-Lite that trigger interrupt service routines. Developed as part of CPEN211 - Digital Systems.
 
 ## Features
-Obstacle Generation
-Robot Player
-Customizable Gamespeed
-Score Display on HEX
+Obstacle Generation  
+Robot Player  
+Customizable Gamespeed  
+Score Display on HEX  
 
 ## Concepts Used
-Embedded C
-Interrupt Service Routines
-DE10-Lite FPGAs
+Embedded C  
+Interrupt Service Routines  
+DE10-Lite FPGAs  
 
 ### Requirements from CPEN211
 Modify vga.c into a C program that plays the Tron light cycle on your FPGA
